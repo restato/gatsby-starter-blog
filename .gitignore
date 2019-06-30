@@ -65,5 +65,14 @@ public
 yarn-error.log
 .pnp/
 .pnp.js
+<<<<<<< HEAD
 # Yarn Integrity file
 .yarn-integrity
+=======
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Webstorm
+.idea
+>>>>>>> cdb8561e0a71b67d5e9b6543079a5d55b4c92377
