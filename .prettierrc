@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
-  "endOfLine": "lf",
-  "semi": false,
-  "singleQuote": false,
-  "tabWidth": 2,
-  "trailingComma": "es5"
-=======
   "trailingComma": "es5",
   "semi": true,
   "singleQuote": true
->>>>>>> cdb8561e0a71b67d5e9b6543079a5d55b4c92377
 }

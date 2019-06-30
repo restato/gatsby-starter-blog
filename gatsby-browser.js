@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-// custom typefaces
-import "typeface-montserrat"
-import "typeface-merriweather"
-=======
 // gatsby-browser.js
 import React from 'react';
 
@@ -81,4 +76,3 @@ require('gatsby-remark-autolink-headers/gatsby-browser').shouldUpdateScroll = fu
   // TODO: maybe inline whatever it does.
   return oldShouldUpdateScroll.apply(this, arguments);
 };
->>>>>>> cdb8561e0a71b67d5e9b6543079a5d55b4c92377
